@@ -40,7 +40,7 @@
     "typescript": "^3.1.6",
     "webpack": "^4.40.0",
     "webpack-cli": "^3.3.8",
-    "yargs-parser": "^10.1.0"
+    "yargs-parser": "^20.0.0"
   },
   "engines": {
     "node": ">=8.0.0"
